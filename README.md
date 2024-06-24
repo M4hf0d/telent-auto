@@ -4,11 +4,11 @@ In response to the team's requirements, I developed two versions of a network co
 
 ## Screenshots
 
-![Screenshot 1](https://ibb.co/BfvPWvr)
-![Screenshot 2](https://ibb.co/w6P463h)
-![Screenshot 3](https://ibb.co/PMYbcgg)
-![Screenshot 4](https://ibb.co/ZgrjrGn)
-![Screenshot 5](https://ibb.co/zXs4sC9)
+![Screenshot 1](https://i.ibb.co/tJ3md2k/Screenshot-1.png)
+![Screenshot 2](https://i.ibb.co/PZW3FSK/Screenshot-2.png)
+![Screenshot 3](https://i.ibb.co/YR7yPY5/Screenshot-3.png)
+![Screenshot 4](https://i.ibb.co/CQpDYPJ/Screenshot-4.png)
+![Screenshot 5](https://i.ibb.co/qMxJ6P8/Screenshot-5.png)
 
 ## Current Features
 
