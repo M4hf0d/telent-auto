@@ -4,11 +4,11 @@ In response to the team's requirements, I developed two versions of a network co
 
 ## Screenshots
 
-<img src="https://i.ibb.co/tJ3md2k" alt="Screenshot 1" width="500"/>
-<img src="https://i.ibb.co/PZW3FSK" alt="Screenshot 2" width="500"/>
-<img src="https://i.ibb.co/YR7yPY5" alt="Screenshot 3" width="500"/>
-<img src="https://i.ibb.co/CQpDYPJ" alt="Screenshot 4" width="500"/>
-<img src="https://i.ibb.co/qMxJ6P8" alt="Screenshot 5" width="500"/>
+<img src="[https://i.ibb.co/tJ3md2k](https://github.com/M4hf0d/telent-auto/blob/master/0.png)" alt="Screenshot 1" width="500"/>
+<img src="[https://i.ibb.co/PZW3FSK](https://github.com/M4hf0d/telent-auto/blob/master/0.png)" alt="Screenshot 2" width="500"/>
+<img src="[https://i.ibb.co/YR7yPY5](https://github.com/M4hf0d/telent-auto/blob/master/0.png)" alt="Screenshot 3" width="500"/>
+<img src="[https://i.ibb.co/CQpDYPJ](https://github.com/M4hf0d/telent-auto/blob/master/0.png)" alt="Screenshot 4" width="500"/>
+<img src="[https://i.ibb.co/qMxJ6P8](https://github.com/M4hf0d/telent-auto/blob/master/0.png)" alt="Screenshot 5" width="500"/>
 
 ## Current Features
 
