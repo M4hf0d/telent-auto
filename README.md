@@ -5,6 +5,11 @@ In response to the team's requirements, I developed two versions of a network co
 ## Screenshots
 
 <img src="https://github.com/M4hf0d/telent-auto/blob/master/0.png" alt="Screenshot 1" width="500"/>
+<img src="https://github.com/M4hf0d/telent-auto/blob/master/1.png" alt="Screenshot 1" width="500"/>
+<img src="https://github.com/M4hf0d/telent-auto/blob/master/2.png" alt="Screenshot 1" width="500"/>
+<img src="https://github.com/M4hf0d/telent-auto/blob/master/3.png" alt="Screenshot 1" width="500"/>
+<img src="https://github.com/M4hf0d/telent-auto/blob/master/4.png" alt="Screenshot 1" width="500"/>
+<img src="https://github.com/M4hf0d/telent-auto/blob/master/5.png" alt="Screenshot 1" width="500"/>
 
 
 ## Current Features
